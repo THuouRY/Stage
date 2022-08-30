@@ -1,0 +1,253 @@
+{
+    "client": {
+      "situationProfessionnelle": {
+        "situationActuelle": {
+          "code": "AC",
+          "libelle": "Actif(ve)"
+        },
+        "travailleurNonSalarie": false,
+        "professionActuelle": "ttt",
+        "categorieSocioProfessionnelle": {
+          "code": "1",
+          "libelle": "Agriculteur"
+        },
+        "secteurActivite": {
+          "code": "N",
+          "libelle": "Activités de services administratifs et de soutien"
+        }
+      },
+      "etatCivil": {
+        "prenom": "Laura",
+        "nom": "Clara",
+        "dateNaissance": "01-01-1995",
+        "villeNaissance": {
+          "code": "59350",
+          "libelle": "Lille"
+        },
+        "departementNaissance": {
+          "code": "59",
+          "libelle": "59-Nord"
+        },
+        "pays": {
+          "code": "FR",
+          "libelle": "FRANCE ",
+          "typologiePays": "FRCE",
+          "membreUnionEuropeenne": false
+        },
+        "nationalite": {
+          "code": "FR",
+          "libelle": "Française"
+        },
+        "civilite": {
+          "code": "03",
+          "libelle": "Mme"
+        },
+        "nir": "298015935008409",
+        "nomNaissance": "Suzan",
+        "situationFamiliale": {
+          "code": "CE",
+          "libelle": "Célibataire "
+        },
+        "regimeMatrimonial": {},
+        "personnesACharge": [],
+        "nombrePersonnesACharge": 0
+      },
+      "dispositionParticuliere": "Aucune",
+      "informationsFiscales": {},
+      "residenceFiscaleHorsFranceUS": false,
+      "residentFiscalOuCitoyenUs": false,
+      "possessionNumeroIdentificationFiscale": false,
+      "revenus": [
+        {
+          "typeRevenu": {
+            "code": "SALA",
+            "libelle": "Revenus professionnels"
+          },
+          "montant": 25000,
+          "afficherParDefaut": 0,
+          "ordre": 10
+        },
+        {
+          "typeRevenu": {
+            "code": "FONC",
+            "libelle": "Revenus fonciers"
+          },
+          "montant": 0,
+          "afficherParDefaut": 0,
+          "ordre": 20
+        },
+        {
+          "typeRevenu": {
+            "code": "REVE",
+            "libelle": "Revenus de valeurs mobilières"
+          },
+          "montant": 0,
+          "afficherParDefaut": 0,
+          "ordre": 30
+        },
+        {
+          "typeRevenu": {
+            "code": "PENS",
+            "libelle": "Pensions, retraites et rentes"
+          },
+          "montant": 0,
+          "afficherParDefaut": 0,
+          "ordre": 40
+        },
+        {
+          "typeRevenu": {
+            "code": "EMPR",
+            "libelle": "Charge annuelle d'emprunt en cours"
+          },
+          "montant": 0,
+          "afficherParDefaut": -1,
+          "ordre": 100
+        },
+        {
+          "typeRevenu": {
+            "code": "PESE",
+            "libelle": "Pension(s) servie(s)"
+          },
+          "montant": 0,
+          "afficherParDefaut": -1,
+          "ordre": 110
+        }
+      ],
+      "patrimoine": [
+        {
+          "typePatrimoine": {
+            "code": "RP",
+            "libelle": "Résidence principale"
+          },
+          "montant": 25000,
+          "afficherParDefaut": 0,
+          "ordre": 10
+        },
+        {
+          "typePatrimoine": {
+            "code": "RS",
+            "libelle": "Résidence secondaire",
+            "infobulle": ""
+          },
+          "montant": 0,
+          "afficherParDefaut": 0,
+          "ordre": 20
+        },
+        {
+          "typePatrimoine": {
+            "code": "IL",
+            "libelle": "Investissement locatif",
+            "infobulle": ""
+          },
+          "montant": 0,
+          "afficherParDefaut": 0,
+          "ordre": 30
+        },
+        {
+          "typePatrimoine": {
+            "code": "VM",
+            "libelle": "Valeurs mobilières, Assurance Vie",
+            "infobulle": "Indiquez dans cette rubrique, la valeur du patrimoine détenu en valeurs mobilières, compte titres, PEA, contrat d'assurance vie et contrat de capitalisation"
+          },
+          "montant": 0,
+          "afficherParDefaut": 0,
+          "ordre": 40
+        },
+        {
+          "typePatrimoine": {
+            "code": "LI",
+            "libelle": "Liquidités, Livrets",
+            "infobulle": "Indiquez dans cette rubrique, la valeur du patrimoine détenu en compte-courant, livrets, PEL"
+          },
+          "montant": 0,
+          "afficherParDefaut": 0,
+          "ordre": 50
+        },
+        {
+          "typePatrimoine": {
+            "code": "OA",
+            "libelle": "Or, Collections, Objets d’art",
+            "infobulle": "Concernant les collections, nous retiendrons ici les collections ayant une valeur marchande significative (certaines monnaies, objets anciens, timbres,….)"
+          },
+          "montant": 0,
+          "afficherParDefaut": 0,
+          "ordre": 60
+        },
+        {
+          "typePatrimoine": {
+            "code": "AP",
+            "libelle": "Actifs professionnels",
+            "infobulle": ""
+          },
+          "montant": 0,
+          "afficherParDefaut": 0,
+          "ordre": 70
+        },
+        {
+          "typePatrimoine": {
+            "code": "EM",
+            "libelle": "Capital restant dû sur les emprunts en cours",
+            "infobulle": ""
+          },
+          "montant": 0,
+          "afficherParDefaut": -1,
+          "ordre": 200
+        }
+      ]
+    },
+    "coordonnees": {
+      "adresse": {
+        "adressePrincipale": "Rue T Guillaume la Motte Piquet 56000 Vannes",
+        "adresseComplementaire": "",
+        "codePostal": "56000",
+        "ville": {
+          "libelle": "Vannes"
+        },
+        "pays": {
+          "code": "FR",
+          "libelle": "FRANCE",
+          "typologiePays": "FRCE",
+          "membreUnionEuropeenne": false
+        }
+      },
+      "email": "test@test.com",
+      "telephoneMobile": {
+        "indicatif": "0033",
+        "numeroTelephone": "600000000",
+        "codePays": "FR"
+      }
+    },
+    "conjoint": {
+      "etatCivil": {},
+      "situationProfessionnelle": {
+        "informationsPPE": {},
+        "lienPPE": {}
+      },
+      "revenus": [],
+      "patrimoine": []
+    },
+    "estCompleteCAD": false,
+    "accConformiteNotExiste": false,
+    "clientDeclareCCInchange": false,
+    "foyer": {
+      "revenus": [],
+      "patrimoine": []
+    },
+    "saisirCommentaire": false,
+    "parcoursKyc": false,
+    "adresseResidenceFiscaleDifferente": false,
+    "professionSensible": false,
+    "bulletinPartenaire": false,
+    "dateSaisie": "2022-06-30",
+    "ccIncomplete": false,
+    "projetId": 79048,
+    "courtierId": 1234688,
+    "envoyerMailReprise": false,
+    "devoirConseilCourtier": false,
+    "statut": "VALIDEE",
+    "residenceFiscaleHorsFranceAmerique": false,
+    "ppeClient": false,
+    "ppeConjoint": false,
+    "ppeLienFamilialeConjoint": false,
+    "ppeLienFamiliale": false
+  }
