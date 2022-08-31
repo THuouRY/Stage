@@ -19,7 +19,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -38,7 +37,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Angular][Cypress.io]][Cypress-url]
+* [![Cypress][Cypress.io]][Cypress-url]
 
 
 
